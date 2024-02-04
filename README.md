@@ -1,16 +1,13 @@
-# Topics in Software Engineering
+# Calculus Central
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Project Description
 
-# Tools
-The tools that are installed with this devcontainer are:
+**Calculus Central** is designed to address a common challenge faced by students globally: accessing comprehensive and structured calculus resources in one unified platform. The application centralizes various learning materials, including video lectures, practice problems, and progress tracking features, to facilitate the learning experience. By integrating these resources, the application aims to eliminate the hardship that often complicates the learning process, enabling students to focus on mastering calculus concepts efficiently.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+## Problem Statement
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Students of calculus are often required to navigate through an overwhelming array of resources scattered across textbooks, websites, and video platforms. This dispersion not only makes it difficult to find high-quality materials but also hinders the ability to track learning progress effectively. **Calculus Central** seeks to solve this problem by grouping selected resources into a single, easily navigable platform. 
+
+## Primary Users
+
+The primary users of **Calculus Central** will be students seeking a structured and comprehensive approach to learning calculus. This includes high school and college students who are enrolled in calculus courses or anyone looking to self-study calculus from the ground up. By providing a centralized platform for learning and revision, the application aims to support students in achieving their academic goals with greater efficiency.
